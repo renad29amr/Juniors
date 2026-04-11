@@ -1,4 +1,8 @@
-streamlit
-pandas
+streamlit 
+pandas 
 matplotlib
-seaborn
+seaborn 
+wordcloud
+plotly    
+pillow
+openpyxl
